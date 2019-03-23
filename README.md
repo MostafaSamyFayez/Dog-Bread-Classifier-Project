@@ -14,7 +14,7 @@ Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree!
 
 CNN trained on AWS.
 
-### steps i take to completeing the project:
+### Steps to Complete the project:
 
 Step 0: Import Datasets
 
