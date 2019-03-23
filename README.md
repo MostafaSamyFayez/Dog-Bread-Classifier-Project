@@ -15,21 +15,28 @@ CNN trained on AWS.
 ### steps i take to completeing the project:
 
 Step 0: Import Datasets
+
 Step 1: Detect Humans
+
 Step 2: Detect Dogs
+
 Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
+
 Step 4: Use a CNN to Classify Dog Breeds (using Transfer Learning)
+
 Step 5: Create a CNN to Classify Dog Breeds (using Transfer Learning)
+
 Step 6: Write your Algorithm
+
 Step 7: Test Your Algorithm
 
-and all step details are documented on the notebook
+And each step details are documented on the notebook.
 
 
 ![Sample Output][image1]
 
 ### Here is sample output of any input images:
 
-<img src="images/1.PNG" width= "500">
+<img src="images/1.PNG" width= "400">
 
 <img src="images/2.PNG" width= "500">
